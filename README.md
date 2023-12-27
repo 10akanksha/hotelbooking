@@ -10,3 +10,10 @@ It is a front-end for a simple hotel booking site. The site is developed using H
 
 5.Contact Page - This page can be used to contact the hotel by filling a simple form. It also serves purpose of providing the location of hotel in google maps. The location of hotel and zoom levels of the map can be easily modified.
 
+
+
+Jquey Plugins used for the website
+1.Image slider - Slick Slider - https://github.com/kenwheeler/slick
+2.Scroll to top - Scrollup - https://github.com/markgoodyear/scrollup
+3.Datepicker - pickmeup - https://github.com/nazar-pc/PickMeUp
+4.Spinner buttons - Handle Counter - https://github.com/nick-running/handle-counter
